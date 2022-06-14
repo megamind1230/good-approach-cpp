@@ -1,3 +1,4 @@
+//06_homework_07_answer.cpp
 //even print 100 ,odd print 7
 #include <iostream>
 using namespace std;
