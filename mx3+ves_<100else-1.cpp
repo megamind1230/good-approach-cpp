@@ -13,5 +13,4 @@ int main() {
 	if (c < 100 && c > res)
 		res = c;
 	cout<<res<<'\n';
-	return 0;
 }
